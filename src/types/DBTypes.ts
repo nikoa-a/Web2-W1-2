@@ -7,10 +7,14 @@ type User = {
 };
 
 type Cat = {
-  // TODO: create a cat type
-  // owner should be a User or a number
+  cat_id: number;
+  cat_name: string;
+  weight: number;
+  filename: string;
+  birthdate: Date;
+  lat: number;
+  lng: number;
+  owner: User | number;
 };
 
-export {Cat};
-
-export {User};
+export {Cat, User};
