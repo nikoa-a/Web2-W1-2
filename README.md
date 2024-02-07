@@ -1,5 +1,9 @@
 # SSSF week 1 exercise. Submit to Oma
 
+## Tests
+
+<img src="week1Tests.jpg">
+
 This REST API is based on the API done in 2nd year course 'Basic Concepts of Web Applications'/'Web ohjelmoinnin perusteet'
 
 ## Getting started
